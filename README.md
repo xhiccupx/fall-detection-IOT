@@ -1,6 +1,8 @@
 # fall-detection-IOT
 # sensors used
+### Node-mcu (esp-8266)
 ![image](https://user-images.githubusercontent.com/65475955/133057940-5e40599c-1050-4905-bb4e-3af97ce49796.png)
+### mpu6050
 ![image](https://user-images.githubusercontent.com/65475955/133057973-2a9d5a6c-ef3b-4b34-beec-b6cd540e8f24.png)
 # flowchart
 ![image](https://user-images.githubusercontent.com/65475955/133058157-17656e9f-a1d9-49bf-84b9-e472889d11d8.png)
