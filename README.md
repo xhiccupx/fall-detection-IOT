@@ -1,8 +1,4 @@
 # fall-detection-IOT
-# purpose
-#### Fall events are the most significant cause of injury in the elderly. Falls result in many disabling fractures that could eventually lead to death due to complications such as infection or pneumonia.
-#### On average, elderly fallers lie helplessly for more than 10 minutes with 3% waiting for more than one hour before receiving assistance. These long lies often result in hospitalizations and high morbidity-mortality rates. 
-![image](https://user-images.githubusercontent.com/65475955/133057814-b6cbaec2-9574-47a6-abe7-8c3a1411dede.png)
 # sensors used
 ![image](https://user-images.githubusercontent.com/65475955/133057940-5e40599c-1050-4905-bb4e-3af97ce49796.png)
 ![image](https://user-images.githubusercontent.com/65475955/133057973-2a9d5a6c-ef3b-4b34-beec-b6cd540e8f24.png)
